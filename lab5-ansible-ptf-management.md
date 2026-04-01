@@ -1,4 +1,4 @@
-# Lab 5: Building a PTF Management Assistant on IBM i Power Systems with IBM Bob and Ansible
+# Lab 5: Building a PTF Management Assistant on IBM i with IBM Bob & Ansible
 
 **Duration:** 20 minutes  
 **Difficulty:** Intermediate   
