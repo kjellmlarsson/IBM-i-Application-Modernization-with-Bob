@@ -13,14 +13,14 @@ The application SAMCO is a simple order management system. It has a green screen
 ---
 
 ## 🎯 The Labs
-| Lab  | Description | Time | Details |
-|------|-------------|------|---------|
-| **Lab 0** | Discover the SAMCO Application - Use Bob to understand legacy code structure, business rules, and program flow | 15 min | [Lab 101-0](#lab-101-0-discover-the-samco-application) |
-| **Lab 1** | RPG modernization & refactoring - Convert legacy RPG code to modern free format with named constants | 15 min | [Lab 101-1](#lab-101-1-rpg-fixed-to-free-conversion) |
+| Lab_Number | Description | Time | Lab Details      |
+|------------|-------------|------|------------------|
+| **Lab 0** | Discover the Application - Use Bob to understand legacy code structure, business rules, and program flow | 15 min | [Lab 101-0](#lab-101-0-discover-the-samco-application) |
+| **Lab 1** | RPG modernization & refactoring - Convert legacy RPG code to modern RPG | 15 min | [Lab 101-1](#lab-101-1-rpg-fixed-to-free-conversion) |
 | **Lab 2** | Build a Simple Article List - Create a modern web UI using React and Carbon Design System | 15 min | [Lab 101-2](#lab-101-2-build-a-simple-article-list) |
 | **Lab 3** | Convert RLA to SQL - Transform record-level access operations to modern SQL with JOINs | 15 min | [Lab 101-3](#lab-101-3-convert-rla-to-sql) |
 | **Lab 4** | IBM Bob with IBM i MCP - Configure Bob for IBM i development with MCP tools and custom modes | 15 min | [Lab 101-4](#lab-101-4-ibm-bob-with-ibm-i-mcp) |
-| **Lab 5** | Ansible Assistant for PTF Management - Automate IBM i system management with AI-assisted Ansible playbooks | 20 min | [Lab 101-5](#lab-101-5-ansible-assistant-for-ptf-management) |
+| **Lab 5** | PTF Management Assistant - Automate IBM i system management with Bob & ansible | 20 min | [Lab 101-5](#lab-101-5-ansible-assistant-for-ptf-management) |
 
 
 ### Lab 101-0: Discover the SAMCO Application
