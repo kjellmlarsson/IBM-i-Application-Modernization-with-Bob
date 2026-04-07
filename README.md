@@ -9,6 +9,8 @@ The application SAMCO is a simple order management system. It has a green screen
 **NEW** : (beta, internal use only) Labs with the **Premium Package for IBM i** add-on to complement these IBM Bob 'Core' labs are now available. 
 See the [Premium Package page ](./lab100-premium-package-introduction.md) for details.
 
+For essential concepts and best practices when using IBM Bob for IBM i modernization, see the [Bob Concepts & Best Practices](./bob-concepts-and-best-practices.md) guide.
+
 ---
 
 ![alt text](pics/green-screen-to-react.png)
